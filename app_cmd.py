@@ -4,7 +4,7 @@
 import sys
 
 if len(sys.argv) != 2:
-    print("Usage: python3 app_cmd.py 'The Parameter'")
+    print("Usage: python3 app_cmd.py 'your question'")
     sys.exit(1)
 
 param = sys.argv[1]
