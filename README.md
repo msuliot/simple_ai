@@ -14,7 +14,7 @@ Make sure to get an OpenAI key from https://platform.openai.com/account/api-keys
 
 Add your OpenAI Key to the OS environmental variables
 ```bash
-run export OPENAI_API_KEY="YOUR_OPEN_AI_KEY"
+export OPENAI_API_KEY="YOUR_OPEN_AI_KEY"
 ```
 << OR >>
 
@@ -30,7 +30,7 @@ Then, save any PDFs in the 'data' directory.
 
 Then run your data importer in VS Code or
 ```bash
-run python3 data_import.py
+python3 data_import.py
 ```
 When the process is complete it will store result in a vector database located in the 'storage' directory
 
