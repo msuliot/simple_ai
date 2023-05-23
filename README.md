@@ -23,6 +23,8 @@ import os
 os.environ["OPENAI_API_KEY"] = 'YOUR_OPEN_AI_KEY'
 ```
 
+* Delete the placeholder-delete-this files in the data and storage directories.
+
 Then, save any PDFs in the 'data' directory.
 
 Then run your data importer in VS Code or
@@ -39,13 +41,13 @@ python3 app_cmd.py 'your question'
 
 ## Notes
 
-•   ChatGPT - LLMs
-    •   https://chat.openai.com (history is reviewable, can delete)
-    •   ChatGPT 3.5
-    •   ChatGPT 4.0 (PLUS) $20
-    •   API and plugins - settings to turn on - waitlist
-    •   API Keys https://platform.openai.com 
-    •   Models https://platform.openai.com/docs/models/overview
+ChatGPT - LLMs
+    https://chat.openai.com (history is reviewable, can delete)
+    ChatGPT 3.5
+    ChatGPT 4.0 (PLUS) $20
+    API and plugins - settings to turn on - waitlist
+    API Keys https://platform.openai.com 
+    Models https://platform.openai.com/docs/models/overview
 
 •   Llama Index 
     •   https://pypi.org/project/llama-index 
