@@ -31,7 +31,7 @@ Then run your data importer in VS Code or
 ```bash
 run python3 data_import.py
 ```
-When the process is complete it will store result in a vector database located in the 'storage' directories
+When the process is complete it will store result in a vector database located in the 'storage' directory
 
 To run the chatbot, use the following command:
 
