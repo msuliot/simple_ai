@@ -37,7 +37,7 @@ To run the chatbot, use the following command:
 python3 app_cmd.py 'your question'
 ```
 
-## Reference
+## Notes
 
 •	ChatGPT - LLMs
     •	https://chat.openai.com (history is reviewable, can delete)
