@@ -1,6 +1,6 @@
 # Simple AI
 
-Here's a straightforward example demonstrating how to utilize ChatGPT using Llama Index. In this scenario, we'll outline a process that involves taking single or multiple PDF files as input and storing them in a vector database. Then conveniently accessing the chatbot from the command prompt, making it ideal for testing purposes.
+Here's a straightforward example demonstrating how to utilize ChatGPT using Llama Index. In this scenario, we'll outline a process that involves taking a single or multiple PDF files as input and storing them in a local vector database. Then conveniently accessing the chatbot from the command prompt, making it ideal for testing purposes.
 
 ## Installation
 
@@ -13,7 +13,14 @@ Make sure to get an OpenAI key from https://platform.openai.com/account/api-keys
 
 Add your OpenAI Key to the OS environmental variables
 ```bash
-run export OPENAI_API_KEY="YOUR_OPEN_AI_KEY "
+run export OPENAI_API_KEY="YOUR_OPEN_AI_KEY"
+```
+<< OR >>
+
+Add the following to both Python files
+```bash
+import os
+os.environ["OPENAI_API_KEY"] = 'YOUR_OPEN_AI_KEY'
 ```
 
 Save any PDFs in the 'data' directory.
