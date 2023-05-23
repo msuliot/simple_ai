@@ -23,7 +23,7 @@ import os
 os.environ["OPENAI_API_KEY"] = 'YOUR_OPEN_AI_KEY'
 ```
 
-* Delete the placeholder-delete-this files in the data and storage directories.
+> Delete the placeholder-delete-this files in the data and storage directories.
 
 Then, save any PDFs in the 'data' directory.
 
@@ -40,6 +40,11 @@ python3 app_cmd.py 'your question'
 ```
 
 ## Notes
+
+ChatGPT - LLMs
+* https://chat.openai.com (history is reviewable, can delete)
+* ChatGPT 3.5
+
 
 ChatGPT - LLMs
     https://chat.openai.com (history is reviewable, can delete)
