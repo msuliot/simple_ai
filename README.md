@@ -39,27 +39,27 @@ python3 app_cmd.py 'your question'
 
 ## Notes
 
-•	ChatGPT - LLMs
-    •	https://chat.openai.com (history is reviewable, can delete)
-    •	ChatGPT 3.5
-    •	ChatGPT 4.0 (PLUS) $20
-    •	API and plugins - settings to turn on - waitlist
-    •	API Keys https://platform.openai.com 
-    •	Models https://platform.openai.com/docs/models/overview
+•   ChatGPT - LLMs
+    •   https://chat.openai.com (history is reviewable, can delete)
+    •   ChatGPT 3.5
+    •   ChatGPT 4.0 (PLUS) $20
+    •   API and plugins - settings to turn on - waitlist
+    •   API Keys https://platform.openai.com 
+    •   Models https://platform.openai.com/docs/models/overview
 
-•	Llama Index 
-    •	https://pypi.org/project/llama-index 
-    •	https://llamahub.ai 
+•   Llama Index 
+    •   https://pypi.org/project/llama-index 
+    •   https://llamahub.ai 
 
-•	Lang Chain
-    •	https://python.langchain.com/en/latest/index.html 
+•   Lang Chain
+    •   https://python.langchain.com/en/latest/index.html 
 
-•	Pinecone - Vector Database/Storage
-    •	https://www.pinecone.io 
+•   Pinecone - Vector Database/Storage
+    •   https://www.pinecone.io 
 
-•	AI Agents
-    •	AutoGPT
-        •	https://news.agpt.co 
-        •	https://docs.agpt.co/setup/ 
-    •	Agent GPT
-    •	https://agentgpt.reworkd
+•   AI Agents
+    •   AutoGPT
+        •   https://news.agpt.co 
+        •   https://docs.agpt.co/setup/ 
+    •   Agent GPT
+    •   https://agentgpt.reworkd
