@@ -1,6 +1,6 @@
 # Simple AI
 
-Here's a straightforward example demonstrating how to utilize ChatGPT within the Llama Index. In this scenario, we'll outline a process that involves taking single or multiple PDF files as input and storing them in a vector database. Then conveniently accessed from the command prompt, making it ideal for testing purposes.
+Here's a straightforward example demonstrating how to utilize ChatGPT using Llama Index. In this scenario, we'll outline a process that involves taking single or multiple PDF files as input and storing them in a vector database. Then conveniently accessing the chatbot from the command prompt, making it ideal for testing purposes.
 
 ## Installation
 
