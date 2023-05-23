@@ -1,11 +1,12 @@
 # Simple AI
 
-Here's a straightforward example demonstrating how to utilize ChatGPT using Llama Index. In this scenario, we'll outline a process that involves taking a single or multiple PDF files as input and storing them in a local vector database. Then conveniently accessing the chatbot from the command prompt, making it ideal for testing purposes.
+Here's a straightforward Python3 example demonstrating how to utilize ChatGPT using Llama Index. In this scenario, we'll outline a process that involves taking a single or multiple PDF files as input and storing them in a local vector database. Then conveniently accessing the chatbot from the command prompt, making it ideal for testing purposes.
 
 ## Installation
 
-1. Clone the repository. 
-2. use pip or pip3 to install dependencies
+1. Must have Python3.
+3. git clone https://github.com/msuliot/simple_ai.git 
+3. use pip or pip3 to install any dependencies.
 
 ## Usage
 
