@@ -7,6 +7,10 @@ Here's a straightforward Python3 example demonstrating how to utilize ChatGPT us
 1. Must have Python3.
 3. git clone https://github.com/msuliot/simple_ai.git 
 3. use pip or pip3 to install any dependencies.
+```bash
+pip install openai
+pip install llama-index
+```
 
 ## Usage
 
