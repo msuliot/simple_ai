@@ -49,14 +49,4 @@ python3 app_cmd.py 'your question'
 
 ## Notes
 
-ChatGPT - LLMs
-* https://chat.openai.com (history is reviewable, can delete)
-* ChatGPT 3.5
-* ChatGPT 4.0 (PLUS) $20
-* API and plugins - settings to turn on
-* API Keys https://platform.openai.com 
-* Models https://platform.openai.com/docs/models/overview
-
-Llama Index 
-* https://pypi.org/project/llama-index 
-* https://llamahub.ai 
+[AI Research Notes](https://github.com/msuliot/ai)
