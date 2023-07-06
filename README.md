@@ -27,8 +27,8 @@ export OPENAI_API_KEY="YOUR_OPEN_AI_KEY"
 
 Add the following to both Python files
 ```bash
-import os
-os.environ["OPENAI_API_KEY"] = 'YOUR_OPEN_AI_KEY'
+import openai
+openai.api_key = "YOUR_OPEN_AI_KEY"
 ```
 
 **Delete the placeholder-delete-this files in the data and storage directories.**
