@@ -16,7 +16,7 @@ idna==3.4
 importlib-metadata==6.6.0
 itsdangerous==2.1.2
 Jinja2==3.1.2
-langchain==0.0.170
+langchain==0.0.231
 llama-index==0.6.7
 macholib @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/macholib-1.15.2-py2.py3-none-any.whl
 MarkupSafe==2.1.2
@@ -36,7 +36,7 @@ python-dateutil==2.8.2
 pytz==2023.3
 PyYAML==6.0
 regex==2023.5.5
-requests==2.29.0
+requests==2.31.0
 six @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/six-1.15.0-py2.py3-none-any.whl
 SQLAlchemy==2.0.13
 tenacity==8.2.2
