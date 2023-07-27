@@ -11,8 +11,9 @@ git clone https://github.com/msuliot/simple_ai.git
 ```
 3. use pip or pip3 to install any dependencies.
 ```bash
-pip install openai
-pip install llama-index
+pip3 install openai
+pip3 install llama-index
+pip3 install python-dotenv
 ```
 
 ## Usage
