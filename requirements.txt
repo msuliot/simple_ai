@@ -1,3 +1,4 @@
 openai
 llama-index
 python-dotenv
+nltk>=3.8.2 # not directly required, pinned by Snyk to avoid a vulnerability
